@@ -1,47 +1,30 @@
-# 56-Day Fullstack Developer Journey 🚀
-
-📅 Thời gian: 11/06/2025 → 06/08/2025  
-🎯 Mục tiêu: Luyện tập ReactJS + NodeJS để đạt trình độ tương đương 1 năm kinh nghiệm và apply vị trí Fullstack Web Developer
 
 ---
 
-## 📅 Nhật ký học tập
+## ✅ Các kỹ năng đã học
 
-| Ngày   | Chủ đề học                   | Component đã làm                                   |
-| ------ | ---------------------------- | -------------------------------------------------- |
-| Day 01 | JSX, Component cơ bản, Props | ✅ `HelloUser.jsx`, `UserCard.jsx`, `BookCard.jsx` |
+### 🔹 Day 01 – JSX, Component, Props
+- Tạo component bằng hàm (`function`)
+- Sử dụng props để truyền dữ liệu
+- Viết JSX với HTML + JavaScript kết hợp
 
----
-
-## 📖 Ghi chú – Day 01
-
-### ✅ Những gì đã học:
-
--   Hiểu JSX là gì và cách viết như HTML trong React
--   Component dạng `function` và cách tái sử dụng
--   Cách truyền dữ liệu qua `props` giữa các component
-
-### 🧩 Các component đã xây dựng:
-
--   `HelloUser`: Hiển thị lời chào tên người dùng
--   `UserCard`: Hiển thị ảnh đại diện, tên, nghề nghiệp
--   `BookCard`: Hiển thị thông tin sách bằng props
+### 🔹 Day 02 – useState, Event, Form
+- Tạo state với `useState`
+- Xử lý sự kiện: `onClick`, `onChange`, `onSubmit`
+- Controlled components trong form
+- Conditional rendering (hiện / ẩn nội dung)
 
 ---
 
-## 📁 Cấu trúc thư mục
+## 📌 Ghi chú
 
-src/
-├── day01/
-│ ├── HelloUser.jsx
-│ ├── UserCard.jsx
-│ ├── BookCard.jsx
-├── App.js
-├── index.js
+- Đây là project ôn tập và luyện kỹ năng mỗi ngày.
+- Mỗi thư mục `dayXX/` chứa component & logic riêng cho từng ngày.
+- Có thể chạy từng ngày trong `App.js` để test độc lập.
 
 ---
 
-## 📌 Notes
-
--   Mình đã tạo folder `day01/` trong `src/` để dễ tổ chức theo ngày học
--   Code commit rõ ràng: `init: hoàn thành HelloUser, UserCard, BookCard (Day 01)`
+## 🔗 Liên hệ
+**Nguyễn Thanh Hiệp** – Final year IT student  
+📧 Email: [hiệp của bạn]  
+🌐 GitHub: [github.com/your-username]  
