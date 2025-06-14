@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# 56-Day Fullstack Developer Journey 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📅 Thời gian: 11/06/2025 → 06/08/2025  
+🎯 Mục tiêu: Luyện tập ReactJS + NodeJS để đạt trình độ tương đương 1 năm kinh nghiệm và apply vị trí Fullstack Web Developer
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📅 Nhật ký học tập
 
-### `npm start`
+| Ngày   | Chủ đề học                   | Component đã làm                                   |
+| ------ | ---------------------------- | -------------------------------------------------- |
+| Day 01 | JSX, Component cơ bản, Props | ✅ `HelloUser.jsx`, `UserCard.jsx`, `BookCard.jsx` |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📖 Ghi chú – Day 01
 
-### `npm test`
+### ✅ Những gì đã học:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   Hiểu JSX là gì và cách viết như HTML trong React
+-   Component dạng `function` và cách tái sử dụng
+-   Cách truyền dữ liệu qua `props` giữa các component
 
-### `npm run build`
+### 🧩 Các component đã xây dựng:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   `HelloUser`: Hiển thị lời chào tên người dùng
+-   `UserCard`: Hiển thị ảnh đại diện, tên, nghề nghiệp
+-   `BookCard`: Hiển thị thông tin sách bằng props
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📁 Cấu trúc thư mục
 
-### `npm run eject`
+src/
+├── day01/
+│ ├── HelloUser.jsx
+│ ├── UserCard.jsx
+│ ├── BookCard.jsx
+├── App.js
+├── index.js
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📌 Notes
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-   Mình đã tạo folder `day01/` trong `src/` để dễ tổ chức theo ngày học
+-   Code commit rõ ràng: `init: hoàn thành HelloUser, UserCard, BookCard (Day 01)`
