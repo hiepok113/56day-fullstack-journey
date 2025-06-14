@@ -26,5 +26,5 @@
 
 ## 🔗 Liên hệ
 **Nguyễn Thanh Hiệp** – Final year IT student  
-📧 Email: [hiệp của bạn]  
-🌐 GitHub: [github.com/your-username]  
+📧 Email: thanhhiep.hongduc@gmail.com
+🌐 GitHub: https://github.com/hiepok113
