@@ -3,6 +3,7 @@ import ToggleText from "./Toggle";
 import SimpleForm from "./SingleForm";
 import ToggleConditionComponent from "./ToggleConditionComponent";
 import SingleConditionComponent from "./SingleConditionComponent";
+
 const Day02 = () => {
     return (
         <div style={{ padding: "20px" }}>
@@ -17,6 +18,7 @@ const Day02 = () => {
 
             <h2>3. Simple Form</h2>
             <SimpleForm />
+
             <h2>4. ToggleConditionComponent</h2>
             <ToggleConditionComponent />
             <h2>5. SingleConditionComponent</h2>

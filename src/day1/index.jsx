@@ -9,7 +9,7 @@ const Day01 = () => {
         <div>
             <h1>Day 01 Components</h1>
             <HelloUser name="Hiệp" />
-            <User name="Lan" age={22} location="Hà Nội" />
+            <User name="Trân" age={22} location="TPHCM" />
             <BookCard
                 title="Clean Code"
                 author="Robert C. Martin"

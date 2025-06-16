@@ -1,11 +1,9 @@
-import Day01 from "./day1";
-import Day02 from "./day2";
+import Day03 from "./day3";
 
 const App = () => {
     return (
         <div>
-            <Day01 />
-            <Day02 />
+            <Day03 />
         </div>
     );
 };
