@@ -69,3 +69,21 @@
 ---
 
 ## 📁 Cấu trúc thư mục
+
+src/
+├── day01/
+│ ├── HelloUser.jsx
+│ ├── UserCard.jsx
+│ ├── BookCard.jsx
+├── day02/
+│ ├── SimpleForm.jsx
+│ ├── ValidatedForm.jsx
+│ ├── AdvancedForm.jsx
+├── day03/
+│ ├── WelcomeUser.jsx
+│ ├── CounterWithEffect.jsx
+│ ├── UserListAdvanced.jsx
+│ ├── WindowWidth.jsx
+│ └── NoteSaver.jsx
+├── App.js
+├── index.js
